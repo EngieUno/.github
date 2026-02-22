@@ -1,6 +1,6 @@
 # EngieUno
 
-Is a small team that leads the development of a social-service platform, BayanBridge. Composed of Information Technology students from the Polytechnic University of the Philippines - Institute of Technology in Sta. Mesa, Manila, Metro Manila.
+Is a small team that leads the development of a social-service platform, ###########. Composed of Information Technology students from the Polytechnic University of the Philippines - Institute of Technology in Sta. Mesa, Manila, Metro Manila.
 
 ### Mission
 Our goal is to connect and solve problems that users face in their locale.
