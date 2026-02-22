@@ -13,8 +13,8 @@ To improve the lives of the Filipinos in needs of social services and assistance
 ## Progress Status
 
 ## Members
-- Arras, John Axis T. (@Axis2005/@Deus2005)
-- Empleo, Allen Andrei G. (@luciddreiming)
-- Jorvina, John Fernando P. (@pentaionic)
-- Landicho, Patrick Rayver L. (@k1rill77)
-- Mamaluba, Norman M. (@mannnMa)
+- Arras, John Axis T. | [Axis2005](https://github.com/Axis2005)/[Deus2005](https://github.com/Deus2005) 
+- Empleo, Allen Andrei G. | [luciddreiming](https://github.com/luciddreiming)
+- Jorvina, John Fernando P. | [PentaIonic](https://github.com/PentaIonic)
+- Landicho, Patrick Rayver L. | [K1rill77](https://github.com/K1rill77)
+- Mamaluba, Norman M. | [mannnMa](https://github.com/mannnMa)
